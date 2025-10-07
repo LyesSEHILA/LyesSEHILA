@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Étudiant à l'Université Paris Nanterre<br>💻📊 Master 1 MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)<br>⚙️🔐 Spécialisation en systèmes d'information fiables<br>🧠📈 Passionné par l'intelligence des données et son impact sur la transformation numérique
+🎓 Étudiant à l'Université Paris Nanterre<br>💻📊 Master 1 MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)<br>⚙️🔐 Spécialisation en systèmes d'information fiables et l'intelligence des données <br>
 
 
 # 💻 Tech Stack:
